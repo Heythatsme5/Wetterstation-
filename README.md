@@ -1,4 +1,4 @@
-# Wetterstation-
+# Wetterstation+
 Webbasierte Wetterstation mit dem DHT11 &amp; ESP8266
 
 Dieses Projekt realisiert eine webbasierte Wetterstation auf Basis eines ESP8266-Mikrocontrollers und einem DHT11-Sensor zur Messung von Temperatur und Luftfeuchtigkeit. 
